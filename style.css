@@ -1,0 +1,51 @@
+.container {
+  width: 1440;
+  height: 1912;
+  background-color: ffff;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.titles {
+  color: #2d3142;
+  size: 600px;
+  display: block;
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.table-tutorials {
+  display: flex;
+  padding: 80px 87px;
+}
+.tutorial {
+  background-color: #f9f9f9;
+  text-decoration: none;
+  font-family: "Nunito Sans", sans-serif;
+  color: #404660;
+  border-radius: 18px;
+  text-align: center;
+  transition: all 200ms ease-in-out;
+  display: flex;
+}
+.tutorial:hover {
+  cursor: pointer;
+  background: #ffff;
+  border-radius: 18px;
+  border: 0.1px solid #404660;
+}
+input {
+  max-width: 199px;
+  max-height: 157px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.basic-electronics {
+}
