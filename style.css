@@ -7,6 +7,7 @@
   font-family: "Nunito Sans", sans-serif;
   color: #2d3142;
   text-align: center;
+  line-height: 1.72;
 }
 
 .menu-tutorials {
@@ -40,9 +41,70 @@
 }
 
 img {
-  width: 60px;
   display: block;
   margin-top: 14px;
 }
-#arduino {
+#arduino_icon {
+  width: 59.71px;
+  height: 42.43px;
+  display: block;
+  margin: 0% auto;
+  padding: 23px 0px 60.26px 0px;
+}
+#basic_electronics_icon {
+  width: 46px;
+  height: 46px;
+  display: block;
+  margin: 0% auto;
+  padding: 23px 0px 30.39px 0px;
+}
+
+#capacitors_icon {
+  display: block;
+  margin: 0% auto;
+  width: 23px;
+  height: 60px;
+  padding: 23px 0px 44px 0px;
+}
+#circuit_building_icon {
+  display: block;
+  margin: 0% auto;
+  width: 47.32px;
+  height: 39.08px;
+  padding: 23px 0px 38px 0px;
+}
+#circuir_project_icon {
+  display: block;
+  margin: 0% auto;
+  width: 36px;
+  height: 36px;
+  padding: 23px 0px 41px 0px;
+}
+#digital_electronics_icon {
+  display: block;
+  margin: 0% auto;
+  width: 17px;
+  height: 71.5px;
+  padding: 11px 0px 15.5px 0px;
+}
+#electronics_components_icon {
+  display: block;
+  margin: 0% auto;
+  width: 64px;
+  height: 21px;
+  padding: 17px 0px 60px 0px;
+}
+#Kicad {
+  display: block;
+  margin: 0% auto;
+  width: 36px;
+  height: 36px;
+  padding: 17px 0px 73px 0px;
+}
+#learn_electronics_icon {
+  display: block;
+  margin: 0% auto;
+  width: 28px;
+  height: 38px;
+  padding: 17px 0px 43px 0px;
 }
