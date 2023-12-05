@@ -38,6 +38,17 @@
   align-items: center;
   border-radius: 18px;
   margin: 14px, 14px;
+  transition: :all 150ms ease-in-out;
+}
+.tutorial-single:hover {
+  cursor:pointer;
+  width: 175px;
+  height: 159px;
+  background: #fff;
+  align-items: center;
+  border-radius: 18px;
+  box-shadow:1px 1px 1px#2d3142;
+  margin: 14px, 14px;
 }
 
 img {
@@ -83,9 +94,16 @@ img {
 #digital_electronics_icon {
   display: block;
   margin: 0% auto;
+  width: 68px;
+  height: 41px;
+  padding: 23px 0px 34px 0px;
+}
+#diodes {
+  display: block;
+  margin: 0% auto;
   width: 17px;
   height: 71.5px;
-  padding: 11px 0px 15.5px 0px;
+  padding: 17px 0px 37px 0px;
 }
 #electronics_components_icon {
   display: block;
@@ -107,4 +125,95 @@ img {
   width: 28px;
   height: 38px;
   padding: 17px 0px 43px 0px;
+}
+#light_emitting_icon {
+  display: block;
+  margin: 0% auto;
+  width: 22px;
+  height: 31.39px;
+  padding: 17px 0px 50px 0px;
+}
+#logicGates {
+  display: block;
+  margin: 0% auto;
+  width: 43.05px;
+  height: 41px;
+  padding: 17px 0px 39px 0px;
+}
+#microcontroles_icon {
+  display: block;
+  margin: 0% auto;
+  width: 47.61px;
+  height: 38px;
+  padding: 17px 0px 70px 0px;
+}
+#pbc_icon {
+  display: block;
+  margin: 0% auto;
+  width: 47.61px;
+  height: 38px;
+  padding: 17px 0px 42px 0px;
+}
+#power_supplies_icon {
+  display: block;
+  margin: 0% auto;
+  width: 48px;
+  height: 48px;
+  padding: 17px 0px 32px 0px;
+}
+#resistors {
+  display: block;
+  margin: 0% auto;
+  width: 93px;
+  height: 22px;
+  padding: 17px 0px 86px 0px;
+}
+#repair_electronics_icon {
+  display: block;
+  margin: 0% auto;
+  width: 52.47px;
+  height: 39.83px;
+  padding: 17px 0px 40px 0px;
+}
+#schematic_icon {
+  display: block;
+  margin: 0% auto;
+  width: 39.81px;
+  height: 37.22px;
+  padding: 17px 0px 43px 0px;
+}
+#soldering_icon {
+  display: block;
+  margin: 0% auto;
+  width: 55.5px;
+  height: 74px;
+  padding: 14px 0px 38px 0px;
+}
+#transistors_icon {
+  display: block;
+  margin: 0% auto;
+  width: 25.67px;
+  height: 54px;
+  padding: 14px 0px 58px 0px;
+}
+#Timer_icon {
+  display: block;
+  margin: 0% auto;
+  width: 53px;
+  height: 40px;
+  padding: 14px 0px 72px 0px;
+}
+#SeriesChips4_icon {
+  display: block;
+  margin: 0% auto;
+  width: 82.49px;
+  height: 34px;
+  padding: 14px 0px 50px 0px;
+}
+#SeriesChips74_icon {
+  display: block;
+  margin: 0% auto;
+  width: 52px;
+  height: 30.12px;
+  padding: 14px 0px 53px 0px;
 }
