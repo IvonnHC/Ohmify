@@ -22,13 +22,22 @@
   gap: 10px 10px;
   color: #404660;
   max-width: 1100px;
+  grid-template-columns: repeat(auto-fit,159px);
 }
-@media screen and (min-width: 250px) {
-  .menu {
+@media screen and (min-width: 380px) {
+  .tutorial-goup {
     font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px,30px,0px;
+    
   }
   .tutorials-group {
-    grid-template-columns: repeat(auto-fit, minmax(159px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(159px, 1fr));
+    justify-content: center;
+    align-items: center;
+    margin: 0px,30px,0px;
+    
   }
 }
 .tutorial-single {
