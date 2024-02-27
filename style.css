@@ -62,4 +62,7 @@ img {
   margin-top: 14px;
   justify-content: center;
   align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(20px, 40px));
 }
+
+grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));

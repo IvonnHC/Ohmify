@@ -1,0 +1,25 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.80237 13.8395H32.8394" stroke="#404660"/>
+<path d="M7.03711 19.7037H8.91365L10.0865 16.8889H29.5556L30.963 19.7037H33.0741" stroke="#404660"/>
+<path d="M7.03711 8.20984H8.91365L10.0865 11.0247H29.5556L30.963 8.20984H33.0741" stroke="#404660"/>
+<path d="M13.1359 36.5926L15.0124 30.7284H24.8643L26.5062 36.5926H13.1359Z" stroke="#404660" stroke-width="3"/>
+<path d="M6.04541 38L32.8181 38" stroke="#404660" stroke-width="3" stroke-linecap="round"/>
+<mask id="path-6-inside-1_121_25" fill="white">
+<rect width="39.4074" height="30.963" rx="2.5"/>
+</mask>
+<rect width="39.4074" height="30.963" rx="2.5" stroke="#404660" stroke-width="6" mask="url(#path-6-inside-1_121_25)"/>
+<path d="M24.6297 7.27161V20.8765M15.0125 7.27161V20.8765M19.9384 7.27161V20.8765" stroke="#404660"/>
+<rect x="12.6976" y="9.88269" width="14.4815" height="8.38272" rx="1.5" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="15.0124" cy="5.62966" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="5.62959" cy="8.44441" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="5.62959" cy="14.0741" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="34.2469" cy="14.0741" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="34.2469" cy="8.44441" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="1.87654" cy="1.87654" r="1.37654" transform="matrix(1 0 0 -1 3.75305 21.3457)" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="1.87654" cy="1.87654" r="1.37654" transform="matrix(1 0 0 -1 32.3704 21.3457)" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="19.9383" cy="5.62966" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="24.6296" cy="5.62966" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="15.0124" cy="22.5185" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="19.9383" cy="22.5185" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+<circle cx="24.6296" cy="22.5185" r="1.37654" fill="#F9F9F9" stroke="#404660"/>
+</svg>
